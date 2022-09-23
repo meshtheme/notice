@@ -4,7 +4,7 @@
     "id":"2",
     "message":"Welcome to Chillax!"
   },
-  "deshbord": {
+  "dashboard": {
     "id": "1",
     "message": "<p>Welcome aboard, Hope you had a great start, here's wishing you lots of luck.<\/p><p class=\"button-container\"><a class=\"button button-primary\" href=\"https:\/\/meshtheme.github.io\/chillax-docs\/\" target=\"_blank\" rel=\"noopener\">Learn more about Chillax <span aria-hidden=\"true\" class=\"dashicons dashicons-external\"><\/span><\/a><\/p>"
   }
